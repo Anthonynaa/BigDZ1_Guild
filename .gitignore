@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Build Folders
+Debug/
+Release/
+x64/
+x86/
+
+# C++ temporary files
+*.obj
+*.pch
+*.idb
+*.pdb
+
+# Visual Studio Code
+.vscode/
+
+# Windows thumbnail cache
+Thumbs.db
